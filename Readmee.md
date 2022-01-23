@@ -30,3 +30,4 @@ Step 7: The application supports GraphQL calls at
 ```bash
 http://127.0.0.1:5000/gql
 ```
+### Please view the screenshot of the GraphQL interface and sample query shown in the same!
